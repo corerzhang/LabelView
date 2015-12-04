@@ -48,7 +48,6 @@
         android:layout_height="wrap_content"/>
 
     <me.corer.labelview.LabelView
-        android:layout_marginTop="@dimen/activity_vertical_margin"
         app:num="20:00"
         app:text="晚场"
         app:numStyle="italic"
@@ -59,6 +58,7 @@
         app:labelCenterPadding="5dp"
         app:labelBottomPadding="10dp"
         app:backgroundColor="@color/colorPrimaryDark"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 </LinearLayout>
