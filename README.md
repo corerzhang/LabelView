@@ -1,8 +1,8 @@
 # LabelView
 一个简单的标签控件
 
-![image](https://github.com/corerzhang/LabelView/raw/master/screenshots/Screenshot_01.jpg)
-![image](https://github.com/corerzhang/LabelView/raw/master/screenshots/Screenshot_02.jpg)
+![image](https://github.com/corerzhang/LabelView/raw/master/screenshots/Screenshot_01.png)
+![image](https://github.com/corerzhang/LabelView/raw/master/screenshots/Screenshot_02.png)
 
 支持自定义
 文字大小（textSize），
