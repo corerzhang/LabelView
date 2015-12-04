@@ -1,15 +1,11 @@
 # LabelView
 一个简单的标签控件
-
-![image](https://github.com/corerzhang/LabelView/raw/master/screenshots/Screenshot_01.png)
-![image](https://github.com/corerzhang/LabelView/raw/master/screenshots/Screenshot_02.png)
-
 支持自定义
 文字大小（textSize），
 间距（labelTopPadding），
 背景色（backgroundColor），
 和方向（direction）等
- <me.corer.labelview.LabelView
+<me.corer.labelview.LabelView
         app:num="20:00"
         app:text="晚场"
         app:numStyle="italic"
@@ -23,3 +19,9 @@
         android:layout_marginTop="@dimen/activity_vertical_margin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
+        
+![image](https://github.com/corerzhang/LabelView/raw/master/screenshots/Screenshot_01.png)
+![image](https://github.com/corerzhang/LabelView/raw/master/screenshots/Screenshot_02.png)
+
+
+
