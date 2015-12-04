@@ -6,9 +6,8 @@
 间距（labelTopPadding），
 背景色（backgroundColor），
 和方向（direction）等
-
+!(LabelView/screenshot/Screenshot_01.png) 
 示例：
-
  <me.corer.labelview.LabelView
         app:num="20:00"
         app:text="晚场"
