@@ -5,7 +5,8 @@
 间距（labelTopPadding），
 背景色（backgroundColor），
 和方向（direction）等
-<me.corer.labelview.LabelView
+```xml  
+  <me.corer.labelview.LabelView
         app:num="20:00"
         app:text="晚场"
         app:numStyle="italic"
@@ -20,6 +21,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
         
+   
+```
+
 ![image](https://github.com/corerzhang/LabelView/raw/master/screenshots/Screenshot_01.png)
 ![image](https://github.com/corerzhang/LabelView/raw/master/screenshots/Screenshot_02.png)
 
