@@ -1,14 +1,14 @@
 # LabelView
 一个简单的标签控件
 
+![image](https://github.com/corerzhang/LabelView/raw/master/screenshots/Screenshot_01.jpg)
+![image](https://github.com/corerzhang/LabelView/raw/master/screenshots/Screenshot_02.jpg)
+
 支持自定义
 文字大小（textSize），
 间距（labelTopPadding），
 背景色（backgroundColor），
 和方向（direction）等
-
-示例：
-
  <me.corer.labelview.LabelView
         app:num="20:00"
         app:text="晚场"
